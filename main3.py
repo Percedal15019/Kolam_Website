@@ -438,9 +438,10 @@ st.markdown("""
 # 3. Install dependencies: `pip install -r requirements.txt`
 # 4. Run the app: `streamlit run app.py`
 
-streamlit==1.28.0
-streamlit-drawable-canvas==0.9.3
-Pillow==10.0.1
-pandas==2.1.1
+# streamlit==1.28.0
+# streamlit-drawable-canvas==0.9.3
+# Pillow==10.0.1
+# pandas==2.1.1
 
-sqlite3
+# sqlite3
+
